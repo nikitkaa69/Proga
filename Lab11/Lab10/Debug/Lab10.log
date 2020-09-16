@@ -1,0 +1,8 @@
+﻿  Tree.cpp
+e:\oaip\lab10\lab10\tree.cpp(73): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+e:\oaip\lab10\lab10\tree.cpp(103): warning C4715: Tree::dfs: значение возвращается не при всех путях выполнения
+e:\oaip\lab10\lab10\tree.cpp(242): warning C4715: node::dfs: значение возвращается не при всех путях выполнения
+e:\oaip\lab10\lab10\tree.cpp(279): warning C4715: node::dfs: значение возвращается не при всех путях выполнения
+e:\oaip\lab10\lab10\tree.cpp(89): warning C4715: Tree::dfs: значение возвращается не при всех путях выполнения
+  Lab10.vcxproj -> E:\OAIP\Lab10\Debug\Lab10.exe
+  Lab10.vcxproj -> E:\OAIP\Lab10\Debug\Lab10.pdb (Full PDB)
