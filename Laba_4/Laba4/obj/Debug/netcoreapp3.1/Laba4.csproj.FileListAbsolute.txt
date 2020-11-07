@@ -1,0 +1,13 @@
+C:\ООП\Лабы\4lab\Laba_4\Laba4\bin\Debug\netcoreapp3.1\Laba4.exe
+C:\ООП\Лабы\4lab\Laba_4\Laba4\bin\Debug\netcoreapp3.1\Laba4.deps.json
+C:\ООП\Лабы\4lab\Laba_4\Laba4\bin\Debug\netcoreapp3.1\Laba4.runtimeconfig.json
+C:\ООП\Лабы\4lab\Laba_4\Laba4\bin\Debug\netcoreapp3.1\Laba4.runtimeconfig.dev.json
+C:\ООП\Лабы\4lab\Laba_4\Laba4\bin\Debug\netcoreapp3.1\Laba4.dll
+C:\ООП\Лабы\4lab\Laba_4\Laba4\bin\Debug\netcoreapp3.1\Laba4.pdb
+C:\ООП\Лабы\4lab\Laba_4\Laba4\obj\Debug\netcoreapp3.1\Laba4.csprojAssemblyReference.cache
+C:\ООП\Лабы\4lab\Laba_4\Laba4\obj\Debug\netcoreapp3.1\Laba4.AssemblyInfoInputs.cache
+C:\ООП\Лабы\4lab\Laba_4\Laba4\obj\Debug\netcoreapp3.1\Laba4.AssemblyInfo.cs
+C:\ООП\Лабы\4lab\Laba_4\Laba4\obj\Debug\netcoreapp3.1\Laba4.csproj.CoreCompileInputs.cache
+C:\ООП\Лабы\4lab\Laba_4\Laba4\obj\Debug\netcoreapp3.1\Laba4.dll
+C:\ООП\Лабы\4lab\Laba_4\Laba4\obj\Debug\netcoreapp3.1\Laba4.pdb
+C:\ООП\Лабы\4lab\Laba_4\Laba4\obj\Debug\netcoreapp3.1\Laba4.genruntimeconfig.cache
